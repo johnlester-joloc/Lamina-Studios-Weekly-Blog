@@ -19,3 +19,21 @@ as part of our course requirement. Likewise, I also researched the most rampant 
 
 <img width="915" height="760" alt="image" src="https://github.com/user-attachments/assets/c6ccc595-4def-46a7-a9f6-2733a4d86187" />
 
+## Day 4
+I started the day by setting up my Cybrary and TryHackMe Account.
+
+<img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/a567b856-e0f8-47a2-9947-521a19bb2bd6" />
+
+I actually already have a TryHackMe account that I made last year. This was in preperation for Hack4Gov 2025 where I participated as one of the contestants.
+
+<img width="1918" height="1043" alt="image" src="https://github.com/user-attachments/assets/b11aaf5f-409d-4a17-b5e9-d3d2b4d7888f" />
+
+Finally, I finished the Week 1 Presentation about the rampant cyberattacks in the Philippines.
+
+## Day 5
+Day 5 was a holiday, specifically Independence Day. We had the option to work but I decided to take a break and went on a long walk. 
+
+
+
+
+
