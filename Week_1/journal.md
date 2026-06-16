@@ -8,9 +8,17 @@ including me did not receive the email invitaion. The day was spent working on W
 
 I created a lecture report documentation for the first task.
 
+*Documentation*
+<img width="1536" height="2048" alt="Day 1" src="https://github.com/user-attachments/assets/c098956c-7630-4049-823a-cb9869293153" />
+
+
 ## Day 2
 I continues working on the lecture report documentation on day 2. We still did not receive an email containing the MyHours invitation. I asked our representative
 to send another one, but no reply was received during that day.
+
+*Documentation*
+<img width="2048" height="1536" alt="Day 2" src="https://github.com/user-attachments/assets/0da977ce-b94f-4596-8fc8-8d62175efade" />
+
 
 ## Day 3
 We gained access to the submissions folder but still no MyHours invitation. There were some problems regarding the account invitation that I had to fix. In the meantime
@@ -18,6 +26,10 @@ we learned that our task was actually the Weekly Task 1 under the 13 Weeks OJT P
 as part of our course requirement. Likewise, I also researched the most rampant cyberattacks in the Philippines as part of the weekly task.
 
 <img width="915" height="760" alt="image" src="https://github.com/user-attachments/assets/c6ccc595-4def-46a7-a9f6-2733a4d86187" />
+
+*Documentation*
+<img width="5184" height="3888" alt="Day 3" src="https://github.com/user-attachments/assets/1c19c298-0a7a-4f83-8ef9-6364260e98d3" />
+
 
 ## Day 4
 I started the day by setting up my Cybrary and TryHackMe Account.
@@ -29,6 +41,10 @@ I actually already have a TryHackMe account that I made last year. This was in p
 <img width="1918" height="1043" alt="image" src="https://github.com/user-attachments/assets/b11aaf5f-409d-4a17-b5e9-d3d2b4d7888f" />
 
 Finally, I finished the Week 1 Presentation about the rampant cyberattacks in the Philippines.
+
+*Documentation*
+<img width="5184" height="3888" alt="Day 4" src="https://github.com/user-attachments/assets/7ee3dff5-d86f-45c2-86e2-ae8b47d180e3" />
+
 
 ## Day 5
 Day 5 was a holiday, specifically Independence Day. We had the option to work but I decided to take a break and went on a long walk. 
